@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testjs.js",
+  "scripts": {
+    "start": "testjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
